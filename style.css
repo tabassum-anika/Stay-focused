@@ -1,0 +1,97 @@
+body{
+    font-family: 'Nunito', sans-serif;
+}
+h1{
+    font-family: 'Lora', serif;
+    font-size: 50px;;
+}
+.felxible-container{
+    display: flex;
+    padding-top: 5%;
+    margin-bottom: 5%;
+}
+p{
+    font-size: 18px;
+    padding: 10px 10px;
+}
+h2{
+    font-family: 'Lora', serif;
+    font-size: 40px;
+    font-weight: 600;
+}
+.tomato-color{
+    color: tomato;
+}
+.orange-color{
+    color: orange;
+}
+.mission-1{
+    width: 50%;
+    padding-left: 10%;
+}
+.line{
+    border-left: 5px solid teal;
+    padding-left: 20px;
+}
+.mission-2{
+    width: 50%;
+    padding-left: 10%;
+}
+.mission-2 img{
+    width: 60%;
+}
+.link-button{
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+    background-color: teal;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+.center{
+    text-align: center;
+}
+.box-items{
+    width: 30%;
+    padding: 15px;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 25px;
+}
+.box-items img{
+    width: 60%;
+}
+#shadow-1{
+    background-color: rgb(247, 210, 217);
+}
+#shadow-2{
+    background-color: bisque;
+}
+#shadow-3{
+    background-color: cadetblue;
+}
+.work{
+    width: 30%;
+    padding-left: 80px;
+    margin: 20px;
+    box-shadow: 10px 10px 40px rgba(0, 0, 0, 0.342);
+    background-color: rgba(152, 179, 179, 0.788);
+}
+.footer{
+    background-color: rgba(0, 0, 0, 0.993);
+    padding-top: 10px;
+}
+.white-color{
+    font-family: serif;
+    color: white;
+    font-style: italic;
+}
+.red-color{
+    color: tomato;
+}
+.footer-p{
+    font-size: 12px;
+    padding-bottom: 10px;
+    color: turquoise;
+    text-align: center;
+}
